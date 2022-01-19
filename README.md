@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Wildan Pratama Putra!
 
-I'm Beginner Developer, and i'm programmer at indohomecare.
+i'm programmer at indohomecare.
 <br>
-<b> Laravel enthusiast </b>
+<b> Laravel Enthusiast </b>
 
 <!-- **wildanptra/wildanptra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
