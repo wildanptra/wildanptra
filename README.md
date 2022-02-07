@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Wildan Pratama Putra!
 
-i'm programmer at indohomecare.
+i'm programmer at indohomecare.com
 <br>
 <b> Laravel Enthusiast </b>
 
