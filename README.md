@@ -9,6 +9,6 @@ i'm programmer at indohomecare.com
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Indohomecare
-- 🌱 I’m currently learning Laravel and Reactjs
+- 🌱 I’m currently learning Reactjs and Flutter(Mobile)
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about coding
