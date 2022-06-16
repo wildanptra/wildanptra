@@ -2,7 +2,7 @@
 
 i'm programmer at indohomecare.com
 <br>
-<b> Laravel Enthusiast </b>
+<b> Coding Enthusiast </b>
 
 <!-- **wildanptra/wildanptra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
