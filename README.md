@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wildanptra&layout=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wildanptra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr">
 
 ### Hi there 👋, I'm Wildan Pratama Putra!
 
