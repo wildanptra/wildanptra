@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wildanptra&layout=dark">
+
 ### Hi there 👋, I'm Wildan Pratama Putra!
 
 i'm programmer at indohomecare.com
