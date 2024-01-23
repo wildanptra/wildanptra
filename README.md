@@ -11,6 +11,6 @@ i'm programmer at indohomecare.com
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Indo Homecare
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter, React Js, Next Js
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about coding
