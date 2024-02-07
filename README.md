@@ -14,5 +14,3 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Flutter, React Js, Next Js
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about coding
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanptra&layout=donut" />
