@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wildanptra&show_icons=true&theme=react&include_all_commits=true">
+
 ### Hi there 👋, I'm Wildan Pratama Putra!
 
 i'm programmer at indohomecare.com
@@ -14,4 +16,3 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about coding
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanptra&layout=donut" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wildanptra&show_icons=true&theme=react&include_all_commits=true">
